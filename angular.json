@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "testtt"
+  "defaultProject": "testtt",
+  "cli": {
+    "analytics": "bd31c20f-655e-4889-9316-6be010c51a7a"
+  }
 }
